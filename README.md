@@ -1,2 +1,2 @@
 # Joshua Ajorgbor
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jajorgbor&show_icons=true&theme=radical)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jajorgbor&theme=highcontrast)](https://git.io/streak-stats)
