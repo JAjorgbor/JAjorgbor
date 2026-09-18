@@ -170,7 +170,7 @@ Building experience for products and teams that operate beyond a single market.
 │                                                      │
 │   System Design                                      │
 │   Backend Architecture                               │
-│   Scalable Product Engineering                      │
+│   Scalable Product Engineering                       │
 │   AI-Assisted Development                            │
 │   Better Developer Tooling                           │
 │   International Engineering                          │
